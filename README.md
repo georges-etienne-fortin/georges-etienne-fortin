@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @georges-etienne-fortin
-- 👀 I’m interested in visual arts and applications to improve workflow
-- 🌱 I’m currently learning about blockchain protocol, cybersecurity architecture and devops functions
+- 👀 I’m interested in the financialization of art and collectibles
+- 🌱 I’m currently learning about big data, automated valuation models, and private asset management platforms
 - 📫 How to reach me: on twitter @GE_Fortin 
 
 <!---
